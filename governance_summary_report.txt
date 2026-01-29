@@ -1,0 +1,21 @@
+
+AI-Enabled Liquor Supply Chain Governance – Summary Report
+---------------------------------------------------------
+
+Total permits analyzed        : 100
+Total vehicles tracked        : 100
+
+Permit violations detected    : 18
+AI-based anomalies detected   : 20
+Route deviations detected     : 16
+
+High risk cases identified    : 36
+Normal cases                  : 64
+
+Key Observations:
+- Automated permit reconciliation helped identify over-dispatch cases.
+- AI-based anomaly detection highlighted unusual dispatch behavior.
+- GPS-based route analysis detected vehicles deviating from expected routes.
+- High-risk cases require further inspection and enforcement action.
+
+(This report is generated using simulated district-level data for POC purposes.)
