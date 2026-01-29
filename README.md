@@ -1,6 +1,6 @@
 # AI-Enabled Liquor Supply Chain Governance Dashboard
 
-This project is a Proof of Concept (POC) developed as part of an internship assignment to demonstrate how AI and data analytics can improve governance, compliance, and revenue protection in the liquor supply chain.
+This project is a Proof of Concept (POC) developed to demonstrate how AI and data analytics can improve governance, compliance, and revenue protection in the liquor supply chain.
 
 The system is designed from the perspective of a Revenue Officer in the Liquor Dispatch Department and provides an interactive dashboard for monitoring permit compliance, route deviations, and risk patterns.
 
